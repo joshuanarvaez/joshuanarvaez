@@ -1,4 +1,5 @@
-### 👋🏽 Hi, I’m Josh.
+### 👋🏽 Hi, I’m Josh. Thanks for checking out my profile!!
+## Web Developer
 
 [![bg][banner]][website]
 
