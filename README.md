@@ -1,4 +1,4 @@
-### 👋🏽 Hi, I’m Josh. Thanks for checking out my profile!!
+# 👋🏽 Hi, I’m Josh. Thanks for checking out my profile!!
 ## Web Developer
 
 - 👨🏼‍💻 I'm currently building [https://jhn-portfolio.netlify.app/][website]  
