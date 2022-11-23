@@ -3,7 +3,7 @@
 ### Thanks for checking out my profile.
 
 - 👨🏼‍💻 I'm currently building [https://www.wowjoshcodes.com/][website]  
-- 🧠 I'm currently learning [nextjs][next], [react][react]  
+- 🧠 I'm currently using [nextjs][next], [react][react]  
 - 📫 How to reach me [website][website] **|** 👔 [linkedin][linkedin]
 - 🧔🏽 Pronouns: He/Him
 
