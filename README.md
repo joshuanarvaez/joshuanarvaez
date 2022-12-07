@@ -1,5 +1,5 @@
 # 👋🏽 Hi!! I’m Josh. 
-## A Web Developer with extensive experience in Supply Chain and Hospitality industries.
+### Web Developer with extensive experience in Supply Chain and Hospitality industries.
 ### Thanks for checking out my profile.
 
 - 👨🏼‍💻 I'm currently building [https://www.wowjoshcodes.com/][website]  
