@@ -1,11 +1,12 @@
 # 👋🏽 Hi!! I’m Josh. 
 ### Web Developer with extensive experience in Supply Chain and Hospitality industries.
-### Thanks for checking out my profile.
 
 - 👨🏼‍💻 I'm currently building [https://www.wowjoshcodes.com/][website]  
 - 🧠 I'm currently using [nextjs][next], [react][react], [nodejs][node], [redux][redux], [antdesign][antdesign], [bootstrap][bootstrap], [chakraui][chakra], [materialui][mui], [sass][sass], [tailwindcss][tailwind]  
 - 📫 How to reach me [website][website] **|** 👔 [linkedin][linkedin]
 - 🧔🏽 Pronouns: He/Him
+
+### Thanks for checking out my profile.
 
 [react]: http://reactjs.org
 [next]: https://nextjs.org
