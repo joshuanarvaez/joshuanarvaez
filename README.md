@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&pause=1000&center=true&width=435&lines=Hi!!+I'm+Josh%2C+a+developer.;I+live+in+Chicago%2C+IL.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&pause=1000&background=FFFEFF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi!!+I'm+Josh%2C+a+developer.;I+live+in+Chicago%2C+IL.)](https://git.io/typing-svg)
 
 - 👨🏼‍💻 I'm currently building [https://www.wowjoshcodes.com/][website]  
 - 🧠 I'm currently using [nextjs][next], [react][react], [nodejs][node], [redux][redux], [antdesign][antdesign], [bootstrap][bootstrap], [chakraui][chakra], [materialui][mui], [sass][sass], [tailwindcss][tailwind]  
