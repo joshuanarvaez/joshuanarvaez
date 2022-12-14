@@ -1,4 +1,5 @@
-# 👋🏽 Hi!! I’m Josh. 
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!!+I'm+Josh.;Thanks+for+stopping+by.)](https://git.io/typing-svg)
+
 ### Web Developer with extensive experience in Supply Chain and Hospitality industries.
 
 - 👨🏼‍💻 I'm currently building [https://www.wowjoshcodes.com/][website]  
