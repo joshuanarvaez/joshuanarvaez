@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&size=45&duration=6000&pause=600&background=FFFEFF00&center=true&vCenter=true&multiline=true&width=1200&height=170&lines=Hi!!+I'm+Josh%2C+a+developer.;I+live+in+Chicago%2C+IL.;Let's+build+something+together.)](https://git.io/typing-svg)   
  
-## A Little About Me...  
+## About Me  
 Hello!! I'm a former MRO Supply Chain and Hospitality professional. The most interesting part of working in those industries was realizing the impact technology had and how drastically it improved business. Tools like production applications for manufacturing & distribution, inventory software, HR software, and retail POS systems help organizations achieve better outcomes. Technology enables companies to run more efficiently and it makes people's lives easier. 
 
 Witnessing this inspired me to pursue a graduate degree in Information Systems; where I became fascinated with software development. In this program, I built my first web application which was a simple form on Microsoft Visual Studio. I thoroughly enjoyed it. This experience motivated me to explore software development as a career and expand my skillset. 
