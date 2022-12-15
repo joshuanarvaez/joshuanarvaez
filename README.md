@@ -11,10 +11,7 @@ After grad school, I enrolled in a Full Stack coding bootcamp. The program was i
   
 
 -   📚 I’m currently learning TypeScript, MongoDB, PostgreSQL    
-  
-
-- ❓ Ask me about production applications for distribution centers, inventory software, HR software, and retail POS systems  
-  
+    
 
 -   ⚡ Fun fact: I'm a big fan of Lord of the Rings ⚔️ 
   
