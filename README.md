@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&size=45&duration=6000&pause=600&background=FFFEFF00&center=true&vCenter=true&multiline=true&width=1200&height=300&lines=Hi!!+I'm+Josh%2C+a+developer.;I+live+in+Chicago%2C+IL.;Let's+build+something+together.)](https://git.io/typing-svg)
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 - 💻 I’m currently working on [wowjoshcodes.com](https://github.com/joshuanarvaez/portfolio)  
   
@@ -17,7 +13,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skills  
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -62,32 +58,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
