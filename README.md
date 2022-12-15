@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&size=45&duration=6000&pause=600&background=FFFEFF00&center=true&vCenter=true&multiline=true&width=1200&height=170&lines=Hi!!+I'm+Josh%2C+a+developer.;I+live+in+Chicago%2C+IL.;Let's+build+something+together.)](https://git.io/typing-svg)   
  
 ## A Little About Me...  
-I'm a former MRO Supply Chain and Hospitality professional. The most interesting part of working in those industries is seeing the role that technology plays and how drastically it improves business. This inspired me to pursue my graduate degree in Information Systems; where I discovered my fascination with software development. After grad school, I enrolled in a Full Stack coding bootcamp to further expand my development skills. I primarily build front end applications but I do some backend development as well. I have used many different technologies and I am always learning more. My goal is to obtain a full-time job as a software engineer so I can develop, maintain, and design software.
+Hello!! I'm a former MRO Supply Chain and Hospitality professional. The most interesting part of working in those industries was realizing the impact technology had and how drastically it improved business. Tools like production applications for manufacturing & distribution, inventory software, HR software, and retail POS systems help organizations achieve better outcomes. Technology enables companies to run more efficiently and it makes people's lives easier. 
+
+Witnessing this inspired me to pursue a graduate degree in Information Systems; where I became fascinated with software development. In this program, I built my first web application which was a simple form on Microsoft Visual Studio. I thoroughly enjoyed it. This experience motivated me to explore software development as a career and expand my skillset. 
+
+After grad school, I enrolled in a Full Stack coding bootcamp. The program was intense and very challenging but it was a tremendous learning opportunity. I'm very fortunate and happy I did it. Once completed, I decided to leave my previous job and make a career transition. Since then, I have dedicated my time away from the workplace to building my portfolio and learning as much as I can. I primarily build front end applications but I do enjoy backend development as well. I have used many different technologies and I am always learning more. 
 
 - 💻 I’m currently working on my [Porfolio](https://github.com/joshuanarvaez/portfolio)  
   
