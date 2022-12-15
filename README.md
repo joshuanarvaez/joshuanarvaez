@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&size=45&duration=6000&pause=600&background=FFFEFF00&center=true&vCenter=true&multiline=true&width=1200&height=300&lines=Hi!!+I'm+Josh%2C+a+developer.;I+live+in+Chicago%2C+IL.;Let's+build+something+together.)](https://git.io/typing-svg)
 <div align="center">
-  - 💻 I’m currently working on [wowjoshcodes.com](https://github.com/joshuanarvaez/portfolio)  
+  💻 I’m currently working on [wowjoshcodes.com](https://github.com/joshuanarvaez/portfolio)  
   
 
-- 📚 I’m currently learning TypeScript, MongoDB, PostgreSQL  
+  📚 I’m currently learning TypeScript, MongoDB, PostgreSQL  
   
 
-- ⚡ Fun fact: I'm a big fan of Lord of the Rings ⚔️  
+  ⚡ Fun fact: I'm a big fan of Lord of the Rings ⚔️  
 </div>  
 
 
