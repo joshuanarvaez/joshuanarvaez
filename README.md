@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&size=45&duration=6000&pause=600&background=FFFEFF00&center=true&vCenter=true&multiline=true&width=1200&height=170&lines=Hi!!+I'm+Josh.%2C;I+live+in+Chicago%2C+IL.;Let's+build+something+together.)](https://git.io/typing-svg)   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&size=45&duration=6000&pause=600&background=FFFEFF00&center=true&vCenter=true&multiline=true&width=1200&height=170&lines=Hello!!+I'm+Josh.;I+live+in+Chicago%2C+IL.;Let's+build+something+together.)](https://git.io/typing-svg)   
  
 ## About Me  
 Hello!! I'm a former MRO Supply Chain and Hospitality professional. The most interesting part of working in those industries was realizing the impact technology had and how drastically it improved business. Tools like production applications for manufacturing & distribution, inventory software, HR software, and retail POS systems help organizations achieve better outcomes. Technology enables companies to run more efficiently and it makes people's lives easier. 
