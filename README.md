@@ -1,16 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&size=45&duration=6000&pause=600&background=FFFEFF00&center=true&vCenter=true&multiline=true&width=1200&height=170&lines=Hello!!+I'm+Josh.;I+live+in+Chicago%2C+IL.;Let's+build+something+together.)](https://git.io/typing-svg)   
  
 ## About Me  
-Hello!! I'm a former MRO Supply Chain and Hospitality professional. The most interesting part of working in those industries was realizing the impact technology had and how drastically it improved business. Tools like production applications for manufacturing & distribution, inventory software, HR software, and retail POS systems help organizations achieve better outcomes. Technology enables companies to run more efficiently and it makes people's lives easier. 
+Dynamic Technical Professional with a proven track record in implementing tech solutions for Supply Chain & Hospitality success. Skilled in Supply Chain Management, Web Development, and Cloud Technologies, I bring a unique blend of expertise to drive business efficiency and innovation. From optimizing operations and fostering innovation to empowering organizations with strategic insights, my diverse background enables me to excel in various roles, including Web Developer, Cloud Specialist, or Technical Consultant. 
 
-Witnessing this inspired me to pursue a graduate degree in Information Systems; where I became fascinated with software development. In this program, I built my first web application which was a simple form on Microsoft Visual Studio. I thoroughly enjoyed it. This experience motivated me to explore software development as a career and expand my skillset. 
+With a passion for continuous learning, I have gained valuable skills through immersive programs including a Full Stack Web Development coding bootcamp and ongoing enrollment in a comprehensive DevOps Engineer certification program. My dedication to staying up-to-date with industry trends and expanding my knowledge enables me to drive innovation and deliver impactful results. 
 
-After grad school, I enrolled in a Full Stack coding bootcamp. The program was intense and very challenging but it was a tremendous learning opportunity. I'm very fortunate and happy I did it. Once completed, I decided to leave my previous job and make a career transition. Since then, I have dedicated my time away from the workplace to building my portfolio and learning as much as I can. I primarily build front end applications but I do enjoy backend development as well. I have used many different technologies and I am always learning more. 
+Seeking new opportunities to contribute and grow, I'm open to networking, mentorship, and exciting career prospects. Let's connect and explore how we can make an impact together!
 
 - 💻 I’m currently working on my [Porfolio](https://github.com/joshuanarvaez/portfolio)  
   
 
--   📚 I’m currently learning TypeScript, MongoDB, PostgreSQL    
+-   📚 I’m currently enrolled in a DevOps certification program.    
     
 
 -   ⚡ Fun fact: I'm a big fan of Lord of the Rings ⚔️ 
