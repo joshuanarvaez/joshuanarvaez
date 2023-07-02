@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&size=45&duration=6000&pause=600&background=FFFEFF00&center=true&vCenter=true&multiline=true&width=1200&height=170&lines=Hello!!+I'm+Josh.;I+live+in+Chicago%2C+IL.;Let's+build+something+together.)](https://git.io/typing-svg)   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&size=45&duration=6000&pause=600&background=FFFEFF00&center=true&vCenter=true&multiline=true&width=1200&height=170&lines=Hello!!+I'm+Josh.;Based+in+Chicago%2C+IL.;Let's+build+something+together.)](https://git.io/typing-svg)   
  
 ## About Me  
 Dynamic Technical Professional with a proven track record in implementing tech solutions for Supply Chain & Hospitality success. Skilled in Supply Chain Management, Web Development, and Cloud Technologies, I bring a unique blend of expertise to drive business efficiency and innovation. From optimizing operations and fostering innovation to empowering organizations with strategic insights, my diverse background enables me to excel in various roles, including Web Developer, Cloud Specialist, or Technical Consultant. 
