@@ -1,7 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&size=45&duration=6000&pause=600&background=FFFEFF00&center=true&vCenter=true&multiline=true&width=1200&height=170&lines=Hello,+I'm+Josh.;Based+in+Chicago%2C+IL.;Let's+build+something+together.)](https://git.io/typing-svg)   
  
 # About Me:
-Solutions-focused Software Developer with a strong background in Supply Chain Management. I enjoy solving challenging problems with innovative tech solutions. <br><br>🤝 I’m looking for employment opportunities<br>💻 I’m currently working on my [Website](https://github.com/joshuanarvaez/portfolio)<br>🔭  I’m looking to collaborate on a modern mobile inventory app<br>📚 I’m currently learning DevOps<br>💬 Ask me about inventory control and process improvement<br>⚡ Fun fact: I'm a big fan of Lord of the Rings ⚔️ 
+Solutions-focused Software Developer with a strong background in Supply Chain Management. I enjoy solving challenging problems with innovative tech solutions. 
+- 🤝 I’m looking for employment opportunities
+- 💻 I’m currently working on my [Website](https://github.com/joshuanarvaez/portfolio)
+- 🔭 I’m looking to collaborate on a modern mobile inventory app
+- 💬 Ask me about inventory control and process improvement
+- 📚 I’m currently learning DevOps
+- ⚡ Fun fact: I'm a big fan of Lord of the Rings ⚔️ 
 
 
 ## 🌐 Socials:
