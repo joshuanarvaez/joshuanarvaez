@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&size=45&duration=6000&pause=600&background=FFFEFF00&center=true&vCenter=true&multiline=true&width=1200&height=170&lines=Hello,+I'm+Josh.;Based+in+Chicago%2C+IL.;Let's+build+something+together.)](https://git.io/typing-svg)   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&size=45&duration=3000&pause=200&background=FFFEFF00&color=39ef7f&center=true&vCenter=true&multiline=true&width=1200&height=170&lines=Hi,+I'm+Josh.;Based+in+Chicago%2C+IL.;Let's+build+something+together.)](https://git.io/typing-svg)   
  
 # 
 I'm a Solutions-focused Software Developer with a strong background in Supply Chain Management. I enjoy solving challenging problems with innovative tech solutions. 
-- 🤝 I’m looking for employment opportunities
-- 💻 I’m currently working on my [Website](https://github.com/joshuanarvaez/portfolio)
-- 🔭 I’m looking to collaborate on a modern mobile inventory app
-- 💬 Ask me about inventory control and process improvement
-- 📚 I’m currently learning DevOps
+- 🤝 I’m looking for employment opportunities!
+- 💻 I’m currently working on my [Website](https://github.com/joshuanarvaez/3D-Website).
+- 📱 I’m looking to collaborate on a modern mobile inventory app.
+- 💬 Ask me about supply chain management and manufacturing, specifically in the craft beer and MRO industries.
+- 📚 I’m currently learning DevOps.
 - ⚡ Fun fact: I'm a big fan of Lord of the Rings ⚔️ 
 
 
